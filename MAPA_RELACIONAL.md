@@ -1,21 +1,69 @@
 # 🌌 PORTAL DE INTERCONEXIÓN UNIVERSAL (ÍNDICE DE RED TOTAL)
 
-> **Ecosistema de Geometría Relacional (RG), R-QNT y Teoría ABC**
-> *"El todo está en las partes, y las partes reflejan el todo."*
+* **Ecosistema de Geometría Relacional (RG), R-QNT y Teoría ABC**
+* "El todo está en las partes, y las partes reflejan el todo."*
 
 Este portal unifica y conecta todos los repositorios de datos del Arquitecto, integrando de forma formal su correspondiente respaldo de registro científico (DOIs):
 
 ## 🛡️ TRACEABILIDAD CIENTÍFICA (REGISTROS DOI)
 A continuación se exponen las publicaciones y preprints indexados de forma oficial mediante identificadores de objetos digitales (DOIs) para este corpus de investigación:
 
-*No se detectaron registros de DOIs locales en esta corrida.*
+* **Publicación sin título**
+  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
+  * **Sello Editorial / Entidad:** *Sin editorial*
+  * **Fecha de Registro:** `Fecha no especificada`
+
+* **Publicación sin título**
+  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
+  * **Sello Editorial / Entidad:** *Sin editorial*
+  * **Fecha de Registro:** `Fecha no especificada`
+
+* **Publicación sin título**
+  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
+  * **Sello Editorial / Entidad:** *Sin editorial*
+  * **Fecha de Registro:** `Fecha no especificada`
+
+* **Publicación sin título**
+  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
+  * **Sello Editorial / Entidad:** *Sin editorial*
+  * **Fecha de Registro:** `Fecha no especificada`
+
+* **Publicación sin título**
+  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
+  * **Sello Editorial / Entidad:** *Sin editorial*
+  * **Fecha de Registro:** `Fecha no especificada`
+
+* **Publicación sin título**
+  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
+  * **Sello Editorial / Entidad:** *Sin editorial*
+  * **Fecha de Registro:** `Fecha no especificada`
+
+* **Publicación sin título**
+  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
+  * **Sello Editorial / Entidad:** *Sin editorial*
+  * **Fecha de Registro:** `Fecha no especificada`
+
+* **Publicación sin título**
+  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
+  * **Sello Editorial / Entidad:** *Sin editorial*
+  * **Fecha de Registro:** `Fecha no especificada`
+
+* **Publicación sin título**
+  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
+  * **Sello Editorial / Entidad:** *Sin editorial*
+  * **Fecha de Registro:** `Fecha no especificada`
+
+* **Publicación sin título**
+  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
+  * **Sello Editorial / Entidad:** *Sin editorial*
+  * **Fecha de Registro:** `Fecha no especificada`
 
 ---
 
 ## 🔑 NODO CENTRAL DE LA RED
 * **[Geometr-a-_Relacional-Repositorio-completo-](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-)**  
   * **Función:** Indexador Central y Repositorio de la Teoría Cuántica Relacional.  
-  * **Último Pulso de Fase:** `2026-10-06 09:51:33+00:00`  
+  * **Último Pulso de Fase:** `2026-10-06 10:01:27+00:00`  
   * **Descripción:** información completa esta absolutamente todo, hasta los fallos más riduculos, pero son datos
 
 ---
