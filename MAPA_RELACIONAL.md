@@ -8,62 +8,62 @@ Este portal unifica y conecta todos los repositorios de datos del Arquitecto, in
 ## 🛡️ TRACEABILIDAD CIENTÍFICA (REGISTROS DOI)
 A continuación se exponen las publicaciones y preprints indexados de forma oficial mediante identificadores de objetos digitales (DOIs) para este corpus de investigación:
 
-* **Publicación sin título**
-  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
-  * **Sello Editorial / Entidad:** *Sin editorial*
-  * **Fecha de Registro:** `Fecha no especificada`
+* **The ABC Network Hypothesis: A Discrete Geometric Foundation for Physical Constants and Biological Resonance**
+  * **DOI:** [10.5281/zenodo.18044204](https://doi.org/10.5281/zenodo.18044204)
+  * **Sello Editorial / Entidad:** *Zenodo*
+  * **Fecha de Registro:** `2025-12-24`
 
-* **Publicación sin título**
-  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
-  * **Sello Editorial / Entidad:** *Sin editorial*
-  * **Fecha de Registro:** `Fecha no especificada`
+* **R-QNT red cuántica nodal por torsión (CEE) Cartan, Einstein, Edward**
+  * **DOI:** [10.5281/zenodo.18866970](https://doi.org/10.5281/zenodo.18866970)
+  * **Sello Editorial / Entidad:** *Zenodo*
+  * **Fecha de Registro:** `2026-03-04`
 
-* **Publicación sin título**
-  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
-  * **Sello Editorial / Entidad:** *Sin editorial*
-  * **Fecha de Registro:** `Fecha no especificada`
+* **ABC/R-QNT red cuántica y gravedad por torsión nodal analogia "tornados cuanticos" (A, B, C); (X, Y, Z); (CEE). "PORPUESTA"**
+  * **DOI:** [10.5281/zenodo.19588832](https://doi.org/10.5281/zenodo.19588832)
+  * **Sello Editorial / Entidad:** *Zenodo*
+  * **Fecha de Registro:** `2026-04-15`
 
-* **Publicación sin título**
-  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
-  * **Sello Editorial / Entidad:** *Sin editorial*
-  * **Fecha de Registro:** `Fecha no especificada`
+* **R-QNT red cuántica nodal por torsión (CEE) Cartan, Einstein, Edward abc**
+  * **DOI:** [10.5281/zenodo.18670033](https://doi.org/10.5281/zenodo.18670033)
+  * **Sello Editorial / Entidad:** *Zenodo*
+  * **Fecha de Registro:** `2025-12-24`
 
-* **Publicación sin título**
-  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
-  * **Sello Editorial / Entidad:** *Sin editorial*
-  * **Fecha de Registro:** `Fecha no especificada`
+* **"Audit Trail & Logic Stress Test: Selected Transcripts of the R-QNT Validation Protocol"**
+  * **DOI:** [10.5281/zenodo.19357886](https://doi.org/10.5281/zenodo.19357886)
+  * **Sello Editorial / Entidad:** *Zenodo*
+  * **Fecha de Registro:** `2026-03`
 
-* **Publicación sin título**
-  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
-  * **Sello Editorial / Entidad:** *Sin editorial*
-  * **Fecha de Registro:** `Fecha no especificada`
+* **Abstract RQNT/ABC Edward Pérez Lopez**
+  * **DOI:** [10.5281/zenodo.19109927](https://doi.org/10.5281/zenodo.19109927)
+  * **Sello Editorial / Entidad:** *Zenodo*
+  * **Fecha de Registro:** `2026-03-19`
 
-* **Publicación sin título**
-  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
-  * **Sello Editorial / Entidad:** *Sin editorial*
-  * **Fecha de Registro:** `Fecha no especificada`
+* **ABC/R-QNT EL ERROR**
+  * **DOI:** [10.5281/zenodo.19589403](https://doi.org/10.5281/zenodo.19589403)
+  * **Sello Editorial / Entidad:** *Zenodo*
+  * **Fecha de Registro:** `2026-04`
 
-* **Publicación sin título**
-  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
-  * **Sello Editorial / Entidad:** *Sin editorial*
-  * **Fecha de Registro:** `Fecha no especificada`
+* **R-QNT/ABC NODO fase 1**
+  * **DOI:** [10.5281/zenodo.19444784](https://doi.org/10.5281/zenodo.19444784)
+  * **Sello Editorial / Entidad:** *Zenodo*
+  * **Fecha de Registro:** `2026-04`
 
-* **Publicación sin título**
-  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
-  * **Sello Editorial / Entidad:** *Sin editorial*
-  * **Fecha de Registro:** `Fecha no especificada`
+* **Relational Geometry (Geometría relacional) RG  manifiesto fundasional de el libro maestro**
+  * **DOI:** [10.5281/zenodo.21367974](https://doi.org/10.5281/zenodo.21367974)
+  * **Sello Editorial / Entidad:** *Zenodo*
+  * **Fecha de Registro:** `2026-07-15`
 
-* **Publicación sin título**
-  * **DOI:** [https://doi.org/No especificado](https://doi.org/No especificado)
-  * **Sello Editorial / Entidad:** *Sin editorial*
-  * **Fecha de Registro:** `Fecha no especificada`
+* **R-QNT rojo cuántica nodal por torsión (CEE) Cartan, Einstein, Edward**
+  * **DOI:** [10.5281/zenodo.18383303](https://doi.org/10.5281/zenodo.18383303)
+  * **Sello Editorial / Entidad:** *Zenodo*
+  * **Fecha de Registro:** `2026-01-27`
 
 ---
 
 ## 🔑 NODO CENTRAL DE LA RED
 * **[Geometr-a-_Relacional-Repositorio-completo-](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-)**  
   * **Función:** Indexador Central y Repositorio de la Teoría Cuántica Relacional.  
-  * **Último Pulso de Fase:** `2026-10-06 10:01:27+00:00`  
+  * **Último Pulso de Fase:** `2026-10-06 10:12:37+00:00`  
   * **Descripción:** información completa esta absolutamente todo, hasta los fallos más riduculos, pero son datos
 
 ---
