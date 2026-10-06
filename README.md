@@ -350,4 +350,99 @@ Así que esto no es un final. Es un comienzo. Un comienzo sin garantías, pero c
 
 No sé si esto es el camino. Pero es un camino. Y ya no estoy solo.
 
-— Edward P. López, El Arquitecto.
+---
+
+# NOTA ACLARATORIA: LOS NÚMEROS SON ANDAMIAJE, NO RESULTADOS
+
+---
+
+## Por qué escribo esta nota
+
+Al releer los comentarios y las lecturas que se han hecho del material, veo que hay un malentendido que conviene despejar de una vez, porque si no lo despejo ahora, todo lo que venga después se va a leer mal.
+
+**Los números que aparecen en los documentos de RG — 19, 57, 137, 1.5, π^8, π^37 y todos los demás — no son datos reales. No son resultados. No son predicciones. No son constantes derivadas.**
+
+Son **andamiaje**.
+
+Son marcas provisionales que puse para poder caminar. Son el equivalente a los clavos que se usan para armar un molde antes de verter el concreto. El molde no es la casa. Los clavos no son la estructura. Pero sin ellos no se puede empezar a construir.
+
+---
+
+## Qué es lo que sí estoy afirmando
+
+Lo que afirmo no es que el electrón sean 19 nodos, ni que la constante de estructura fina sea 137 − 1/2052, ni que la Deuda de Información valga 1.5.
+
+Lo que afirmo es esto:
+
+> **Hay ciertos comportamientos — patrones de simetría, ruptura, conservación, transición, estabilización — que aparecen una y otra vez en la naturaleza, y que mi intuición relacional detecta como una misma cosa vista desde distintos ángulos.**
+
+Eso es todo. Eso es lo que pongo sobre la mesa.
+
+Los números vinieron después, como un intento de **fijar** esos comportamientos en algo concreto para poder manipularlos, compararlos, correrlos en simulaciones, y ver si aguantaban. Algunos aguantaron. Muchos no. Ninguno es una verdad.
+
+---
+
+## Qué hay que hacer con esto
+
+El camino no es validar los números. El camino es:
+
+1. **Aislar el comportamiento puro** detrás de cada pilar. Sin números. Sin ecuaciones decorativas. Solo: *¿qué está pasando aquí, en términos físicos, que se pueda nombrar?*
+2. **Buscar el formalismo real** que ya captura ese comportamiento. La física tiene un siglo de ecuaciones escritas. Muchas de las que necesito probablemente ya existen.
+3. **Derivar la ecuación verdadera** desde el comportamiento, no desde el número. El número es la sombra. La ecuación es el objeto.
+4. **Comparar con el experimento.** Si la ecuación predice algo medible y coincide, hay un dato. Si no coincide, hay un mapa de dónde no buscar.
+
+Los números actuales pueden estar todos mal. Probablemente muchos lo estén. Eso no invalida el camino: invalida las marcas que puse en el camino. Las marcas se pueden reemplazar. El camino, si es real, aguanta.
+
+---
+
+## Por qué lo publico así
+
+No publico esto como teoría. No publico esto como resultado. No publico esto como predicción.
+
+Lo publico como **invitación a caminar el mismo tramo**.
+
+Si alguien con formación técnica quiere tomar un pilar — uno solo — y decirme "este comportamiento existe y se llama X, y su ecuación real es Y", eso vale más que toda la estructura que he construido. Porque entonces el andamiaje empieza a sostener algo real, en vez de sostenerse a sí mismo.
+
+No pido que me crean. Pido que tomen una pieza, la revisen, la refuten, la anclen a algo que ya exista, o la descarten. Cada una de esas cuatro cosas es un avance.
+
+---
+
+## Lo que NO estoy diciendo
+
+Para evitar más malentendidos, dejo claro lo que esta nota **no** afirma:
+
+- No digo que la RG sea correcta.
+- No digo que los números sean válidos.
+- No digo que las ecuaciones del manifiesto estén bien derivadas.
+- No digo que esto sea física.
+- No digo que el camino sea el correcto.
+
+Lo único que digo es:
+
+> **Los números son andamiaje. El comportamiento es lo que importa. Las ecuaciones verdaderas están por encontrarse. Y el camino, si es real, se puede caminar entre varios.**
+
+---
+
+## Cómo colaborar
+
+Si quieres entrar, elige **un pilar** del manifiesto. Uno. No los siete. Y haz una de estas cuatro cosas:
+
+1. **Nombrar el comportamiento** que ese pilar describe, en una frase, sin números.
+2. **Señalar el formalismo físico real** que ya captura ese comportamiento, si existe.
+3. **Derivar la ecuación verdadera** desde el comportamiento, si puedes.
+4. **Refutar el pilar entero**, si crees que el comportamiento no existe o no es físico.
+
+Cualquiera de las cuatro es una contribución. Ninguna es un fracaso. Todas son datos.
+
+---
+
+## Cierre
+
+Esto no es un paper. No es una teoría. Es un cuaderno abierto, con marcas provisionales, sobre el que quiero caminar con quien quiera caminar.
+
+Los números son el molde. El comportamiento es el material. La ecuación verdadera es la casa.
+
+Todavía no hay casa. Pero ya hay molde, y ya hay material, y ya hay camino.
+
+
+— Edward P. López
