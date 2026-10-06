@@ -1,7 +1,7 @@
 # 🌌 PORTAL DE INTERCONEXIÓN UNIVERSAL (ÍNDICE DE RED TOTAL)
 
-* **Ecosistema de Geometría Relacional (RG), R-QNT y Teoría ABC**
-* "El todo está en las partes, y las partes reflejan el todo."*
+> **Ecosistema de Geometría Relacional (RG), R-QNT y Teoría ABC**
+> *"El todo está en las partes, y las partes reflejan el todo."*
 
 Este portal unifica y conecta todos los repositorios de datos del Arquitecto, integrando de forma formal su correspondiente respaldo de registro científico (DOIs):
 
