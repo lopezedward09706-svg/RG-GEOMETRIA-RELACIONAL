@@ -3,21 +3,24 @@
 > **Ecosistema de Geometría Relacional (RG), R-QNT y Teoría ABC**
 > *"El todo está en las partes, y las partes reflejan el todo."*
 
-Este portal unifica y conecta de forma directa todos los repositorios y bases de datos del Arquitecto. Desde cualquiera de estos nodos se puede navegar y verificar la integridad de toda la estructura de investigación:
+Este portal unifica y conecta todos los repositorios de datos del Arquitecto, integrando de forma formal su correspondiente respaldo de registro científico (DOIs):
+
+## 🛡️ TRACEABILIDAD CIENTÍFICA (REGISTROS DOI)
+A continuación se exponen las publicaciones y preprints indexados de forma oficial mediante identificadores de objetos digitales (DOIs) para este corpus de investigación:
+
+*No se detectaron registros de DOIs locales en esta corrida.*
 
 ---
 
 ## 🔑 NODO CENTRAL DE LA RED
 * **[Geometr-a-_Relacional-Repositorio-completo-](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-)**  
   * **Función:** Indexador Central y Repositorio de la Teoría Cuántica Relacional.  
-  * **Último Pulso de Fase:** `2026-10-06 09:44:37+00:00`  
+  * **Último Pulso de Fase:** `2026-10-06 09:51:33+00:00`  
   * **Descripción:** información completa esta absolutamente todo, hasta los fallos más riduculos, pero son datos
 
 ---
 
 ## 📊 NODOS DE DESARROLLO, SIMULADORES E IA
-
-A continuación se despliega el listado completo y ordenado de todos los nodos de la red para garantizar el acceso bidireccional instantáneo:
 
 ### 01. [.github](https://github.com/lopezedward09706-svg/.github) [Simulación/Lab] 🧪
 * **Enlace de Acceso:** https://github.com/lopezedward09706-svg/.github
@@ -224,4 +227,4 @@ A continuación se despliega el listado completo y ordenado de todos los nodos d
 * **Estado / Sincronización:** `2026-01-03 09:56:20+00:00`
 
 ---
-*Mapeo e interconexión universal generado de forma dinámica y automatizada. La totalidad de la obra se encuentra disponible a través de cualquiera de sus puntos de acceso.*
+*Mapeo, interconexión universal y registro de DOIs académicos integrado de forma automatizada por el Agente.*
