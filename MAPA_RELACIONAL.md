@@ -276,3 +276,308 @@ A continuación se exponen las publicaciones y preprints indexados de forma ofic
 
 ---
 *Mapeo, interconexión universal y registro de DOIs académicos integrado de forma automatizada por el Agente.*
+
+## 🖼️ IMÁGENES GENERADAS
+A continuación se catalogan de forma directa todas las simulaciones gráficas, mapas mentales y capturas de fase generadas durante la investigación:
+
+* **NotebookLM Mind Map (53).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (53).png?raw=true)  
+  ![NotebookLM Mind Map (53).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (53).png?raw=true)
+
+* **NotebookLM Mind Map (75).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (75).png?raw=true)  
+  ![NotebookLM Mind Map (75).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (75).png?raw=true)
+
+* **NotebookLM Mind Map (69).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (69).png?raw=true)  
+  ![NotebookLM Mind Map (69).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (69).png?raw=true)
+
+* **rg_simulacion_global_v2.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg_simulacion_global_v2.png?raw=true)  
+  ![rg_simulacion_global_v2.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg_simulacion_global_v2.png?raw=true)
+
+* **NotebookLM Mind Map (46).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (46).png?raw=true)  
+  ![NotebookLM Mind Map (46).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (46).png?raw=true)
+
+* **NotebookLM Mind Map (52).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (52).png?raw=true)  
+  ![NotebookLM Mind Map (52).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (52).png?raw=true)
+
+* **descarga (5).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (5).png?raw=true)  
+  ![descarga (5).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (5).png?raw=true)
+
+* **pre_mc_postulados (1).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/pre_mc_postulados (1).png?raw=true)  
+  ![pre_mc_postulados (1).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/pre_mc_postulados (1).png?raw=true)
+
+* **NotebookLM Mind Map (65).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (65).png?raw=true)  
+  ![NotebookLM Mind Map (65).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (65).png?raw=true)
+
+* **sensitivity_heatmap (1).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/sensitivity_heatmap (1).png?raw=true)  
+  ![sensitivity_heatmap (1).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/sensitivity_heatmap (1).png?raw=true)
+
+* **NotebookLM Mind Map (28).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (28).png?raw=true)  
+  ![NotebookLM Mind Map (28).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (28).png?raw=true)
+
+* **NotebookLM Mind Map (48).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (48).png?raw=true)  
+  ![NotebookLM Mind Map (48).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (48).png?raw=true)
+
+* **NotebookLM Mind Map (76).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (76).png?raw=true)  
+  ![NotebookLM Mind Map (76).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (76).png?raw=true)
+
+* **NotebookLM Mind Map (64).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (64).png?raw=true)  
+  ![NotebookLM Mind Map (64).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (64).png?raw=true)
+
+* **NotebookLM Mind Map (49).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (49).png?raw=true)  
+  ![NotebookLM Mind Map (49).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (49).png?raw=true)
+
+* **NotebookLM Mind Map (44).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (44).png?raw=true)  
+  ![NotebookLM Mind Map (44).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (44).png?raw=true)
+
+* **NotebookLM Mind Map (41).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (41).png?raw=true)  
+  ![NotebookLM Mind Map (41).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (41).png?raw=true)
+
+* **NotebookLM Mind Map (82).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (82).png?raw=true)  
+  ![NotebookLM Mind Map (82).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (82).png?raw=true)
+
+* **NotebookLM Mind Map (45).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (45).png?raw=true)  
+  ![NotebookLM Mind Map (45).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (45).png?raw=true)
+
+* **descarga (13).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (13).png?raw=true)  
+  ![descarga (13).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (13).png?raw=true)
+
+* **NotebookLM Mind Map (51).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (51).png?raw=true)  
+  ![NotebookLM Mind Map (51).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (51).png?raw=true)
+
+* **descarga (17).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (17).png?raw=true)  
+  ![descarga (17).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (17).png?raw=true)
+
+* **NotebookLM Mind Map (66).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (66).png?raw=true)  
+  ![NotebookLM Mind Map (66).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (66).png?raw=true)
+
+* **caso_C_phi (2).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/caso_C_phi (2).png?raw=true)  
+  ![caso_C_phi (2).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/caso_C_phi (2).png?raw=true)
+
+* **E001_paisaje_deuda.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/E001_paisaje_deuda.png?raw=true)  
+  ![E001_paisaje_deuda.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/E001_paisaje_deuda.png?raw=true)
+
+* **sensitivity_heatmap (3).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/sensitivity_heatmap (3).png?raw=true)  
+  ![sensitivity_heatmap (3).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/sensitivity_heatmap (3).png?raw=true)
+
+* **NotebookLM Mind Map (35).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (35).png?raw=true)  
+  ![NotebookLM Mind Map (35).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (35).png?raw=true)
+
+* **descarga (10).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (10).png?raw=true)  
+  ![descarga (10).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (10).png?raw=true)
+
+* **analisis_conservacion_fisica_125M.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/analisis_conservacion_fisica_125M.png?raw=true)  
+  ![analisis_conservacion_fisica_125M.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/analisis_conservacion_fisica_125M.png?raw=true)
+
+* **NotebookLM Mind Map (54).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (54).png?raw=true)  
+  ![NotebookLM Mind Map (54).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (54).png?raw=true)
+
+* **NotebookLM Mind Map (63).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (63).png?raw=true)  
+  ![NotebookLM Mind Map (63).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (63).png?raw=true)
+
+* **NotebookLM Mind Map (68).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (68).png?raw=true)  
+  ![NotebookLM Mind Map (68).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (68).png?raw=true)
+
+* **NotebookLM Mind Map (85).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (85).png?raw=true)  
+  ![NotebookLM Mind Map (85).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (85).png?raw=true)
+
+* **NotebookLM Mind Map (59).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (59).png?raw=true)  
+  ![NotebookLM Mind Map (59).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (59).png?raw=true)
+
+* **E5_corregido.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/E5_corregido.png?raw=true)  
+  ![E5_corregido.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/E5_corregido.png?raw=true)
+
+* **NotebookLM Mind Map (70).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (70).png?raw=true)  
+  ![NotebookLM Mind Map (70).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (70).png?raw=true)
+
+* **NotebookLM Mind Map (37).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (37).png?raw=true)  
+  ![NotebookLM Mind Map (37).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (37).png?raw=true)
+
+* **NotebookLM Mind Map (73).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (73).png?raw=true)  
+  ![NotebookLM Mind Map (73).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (73).png?raw=true)
+
+* **NotebookLM Mind Map (33).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (33).png?raw=true)  
+  ![NotebookLM Mind Map (33).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (33).png?raw=true)
+
+* **NotebookLM Mind Map (83).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (83).png?raw=true)  
+  ![NotebookLM Mind Map (83).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (83).png?raw=true)
+
+* **NotebookLM Mind Map (43).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (43).png?raw=true)  
+  ![NotebookLM Mind Map (43).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (43).png?raw=true)
+
+* **descarga (7).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (7).png?raw=true)  
+  ![descarga (7).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (7).png?raw=true)
+
+* **NotebookLM Mind Map (34).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (34).png?raw=true)  
+  ![NotebookLM Mind Map (34).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (34).png?raw=true)
+
+* **NotebookLM Mind Map (29).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (29).png?raw=true)  
+  ![NotebookLM Mind Map (29).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (29).png?raw=true)
+
+* **rg108_global_mc_aa (1).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg108_global_mc_aa (1).png?raw=true)  
+  ![rg108_global_mc_aa (1).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg108_global_mc_aa (1).png?raw=true)
+
+* **NotebookLM Mind Map (60).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (60).png?raw=true)  
+  ![NotebookLM Mind Map (60).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (60).png?raw=true)
+
+* **simulacion_rg_1M.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/simulacion_rg_1M.png?raw=true)  
+  ![simulacion_rg_1M.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/simulacion_rg_1M.png?raw=true)
+
+* **NotebookLM Mind Map (50).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (50).png?raw=true)  
+  ![NotebookLM Mind Map (50).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (50).png?raw=true)
+
+* **descarga (6).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (6).png?raw=true)  
+  ![descarga (6).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (6).png?raw=true)
+
+* **NotebookLM Mind Map (77).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (77).png?raw=true)  
+  ![NotebookLM Mind Map (77).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (77).png?raw=true)
+
+* **simulacion_rg_2M_convergencia.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/simulacion_rg_2M_convergencia.png?raw=true)  
+  ![simulacion_rg_2M_convergencia.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/simulacion_rg_2M_convergencia.png?raw=true)
+
+* **NotebookLM Mind Map (36).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (36).png?raw=true)  
+  ![NotebookLM Mind Map (36).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (36).png?raw=true)
+
+* **NotebookLM Mind Map (42).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (42).png?raw=true)  
+  ![NotebookLM Mind Map (42).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (42).png?raw=true)
+
+* **NotebookLM Mind Map (84).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (84).png?raw=true)  
+  ![NotebookLM Mind Map (84).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (84).png?raw=true)
+
+* **NotebookLM Mind Map (79).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (79).png?raw=true)  
+  ![NotebookLM Mind Map (79).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (79).png?raw=true)
+
+* **descarga (2).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (2).png?raw=true)  
+  ![descarga (2).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (2).png?raw=true)
+
+* **caso_C_phi.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/caso_C_phi.png?raw=true)  
+  ![caso_C_phi.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/caso_C_phi.png?raw=true)
+
+* **pre_mc_postulados.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/pre_mc_postulados.png?raw=true)  
+  ![pre_mc_postulados.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/pre_mc_postulados.png?raw=true)
+
+* **NotebookLM Mind Map (40).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (40).png?raw=true)  
+  ![NotebookLM Mind Map (40).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (40).png?raw=true)
+
+* **descarga (3).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (3).png?raw=true)  
+  ![descarga (3).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (3).png?raw=true)
+
+* **NotebookLM Mind Map (80).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (80).png?raw=true)  
+  ![NotebookLM Mind Map (80).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (80).png?raw=true)
+
+* **NotebookLM Mind Map (57).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (57).png?raw=true)  
+  ![NotebookLM Mind Map (57).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (57).png?raw=true)
+
+* **NotebookLM Mind Map (61).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (61).png?raw=true)  
+  ![NotebookLM Mind Map (61).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (61).png?raw=true)
+
+* **descarga (4).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (4).png?raw=true)  
+  ![descarga (4).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (4).png?raw=true)
+
+* **rg_simulacion_global (1).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg_simulacion_global (1).png?raw=true)  
+  ![rg_simulacion_global (1).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg_simulacion_global (1).png?raw=true)
+
+* **batch_E1_E5.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/batch_E1_E5.png?raw=true)  
+  ![batch_E1_E5.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/batch_E1_E5.png?raw=true)
+
+* **NotebookLM Mind Map (67).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (67).png?raw=true)  
+  ![NotebookLM Mind Map (67).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (67).png?raw=true)
+
+* **NotebookLM Mind Map (47).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (47).png?raw=true)  
+  ![NotebookLM Mind Map (47).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (47).png?raw=true)
+
+* **NotebookLM Mind Map (81).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (81).png?raw=true)  
+  ![NotebookLM Mind Map (81).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (81).png?raw=true)
+
+* **AA_busqueda_valores.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/AA_busqueda_valores.png?raw=true)  
+  ![AA_busqueda_valores.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/AA_busqueda_valores.png?raw=true)
+
+* **rg108_global_mc_aa (2).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg108_global_mc_aa (2).png?raw=true)  
+  ![rg108_global_mc_aa (2).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg108_global_mc_aa (2).png?raw=true)
+
+* **E001_mc_spectrum.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/E001_mc_spectrum.png?raw=true)  
+  ![E001_mc_spectrum.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/E001_mc_spectrum.png?raw=true)
+
+* **rg_simulacion_global.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg_simulacion_global.png?raw=true)  
+  ![rg_simulacion_global.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg_simulacion_global.png?raw=true)
+
+* **descarga (12).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (12).png?raw=true)  
+  ![descarga (12).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (12).png?raw=true)
+
+* **NotebookLM Mind Map (56).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (56).png?raw=true)  
+  ![NotebookLM Mind Map (56).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (56).png?raw=true)
+
+* **E001_mc_red_hex.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/E001_mc_red_hex.png?raw=true)  
+  ![E001_mc_red_hex.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/E001_mc_red_hex.png?raw=true)
+
+* **NotebookLM Mind Map (78).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (78).png?raw=true)  
+  ![NotebookLM Mind Map (78).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (78).png?raw=true)
+
+* **NotebookLM Mind Map (55).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (55).png?raw=true)  
+  ![NotebookLM Mind Map (55).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (55).png?raw=true)
+
+* **NotebookLM Mind Map (71).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (71).png?raw=true)  
+  ![NotebookLM Mind Map (71).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (71).png?raw=true)
+
+* **NotebookLM Mind Map (30).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (30).png?raw=true)  
+  ![NotebookLM Mind Map (30).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (30).png?raw=true)
+
+* **descarga (15).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (15).png?raw=true)  
+  ![descarga (15).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (15).png?raw=true)
+
+* **NotebookLM Mind Map (31).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (31).png?raw=true)  
+  ![NotebookLM Mind Map (31).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (31).png?raw=true)
+
+* **sensitivity_heatmap (2).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/sensitivity_heatmap (2).png?raw=true)  
+  ![sensitivity_heatmap (2).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/sensitivity_heatmap (2).png?raw=true)
+
+* **descarga (14).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (14).png?raw=true)  
+  ![descarga (14).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (14).png?raw=true)
+
+* **caso_C_phi (1).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/caso_C_phi (1).png?raw=true)  
+  ![caso_C_phi (1).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/caso_C_phi (1).png?raw=true)
+
+* **sensitivity_heatmap.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/sensitivity_heatmap.png?raw=true)  
+  ![sensitivity_heatmap.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/sensitivity_heatmap.png?raw=true)
+
+* **NotebookLM Mind Map (58).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (58).png?raw=true)  
+  ![NotebookLM Mind Map (58).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (58).png?raw=true)
+
+* **NotebookLM Mind Map (74).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (74).png?raw=true)  
+  ![NotebookLM Mind Map (74).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (74).png?raw=true)
+
+* **E59_significancia.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/E59_significancia.png?raw=true)  
+  ![E59_significancia.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/E59_significancia.png?raw=true)
+
+* **NotebookLM Mind Map (39).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (39).png?raw=true)  
+  ![NotebookLM Mind Map (39).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (39).png?raw=true)
+
+* **descarga (9).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (9).png?raw=true)  
+  ![descarga (9).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (9).png?raw=true)
+
+* **descarga (16).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (16).png?raw=true)  
+  ![descarga (16).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (16).png?raw=true)
+
+* **batch_E6_E10.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/batch_E6_E10.png?raw=true)  
+  ![batch_E6_E10.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/batch_E6_E10.png?raw=true)
+
+* **descarga (11).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (11).png?raw=true)  
+  ![descarga (11).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (11).png?raw=true)
+
+* **rg108_global_mc_aa.png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg108_global_mc_aa.png?raw=true)  
+  ![rg108_global_mc_aa.png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/rg108_global_mc_aa.png?raw=true)
+
+* **NotebookLM Mind Map (38).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (38).png?raw=true)  
+  ![NotebookLM Mind Map (38).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (38).png?raw=true)
+
+* **NotebookLM Mind Map (62).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (62).png?raw=true)  
+  ![NotebookLM Mind Map (62).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (62).png?raw=true)
+
+* **NotebookLM Mind Map (32).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (32).png?raw=true)  
+  ![NotebookLM Mind Map (32).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (32).png?raw=true)
+
+* **descarga (8).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (8).png?raw=true)  
+  ![descarga (8).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/descarga (8).png?raw=true)
+
+* **NotebookLM Mind Map (72).png**: [Ver Imagen](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (72).png?raw=true)  
+  ![NotebookLM Mind Map (72).png](https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/blob/main/imagenes_generadas/NotebookLM Mind Map (72).png?raw=true)
+
+---
